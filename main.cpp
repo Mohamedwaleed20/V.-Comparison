@@ -26,7 +26,7 @@ int main()
             cout << "Wrong" << endl;
     }
     else
-    { // S == '='
+    { 
         if (A == B)
             cout << "Right" << endl;
         else
